@@ -1,3 +1,9 @@
 identical with xfce:
 .config/gconf
+.config/qt5ct
+.config/volumeicon
+.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-power-manager.xml
 
+different and can be adjusted and shared to serve both:
+.config/mimeapps.list
+(.extend).xinitrc
